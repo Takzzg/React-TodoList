@@ -1,3 +1,5 @@
 # Takzzg-React-TodoList
-> npm i
-> npm start
+```
+npm i
+npm start
+```
